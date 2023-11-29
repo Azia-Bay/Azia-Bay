@@ -29,11 +29,6 @@
         <li>Ported 1.2k LOC software from Windows Forms to Xamarin Forms, allowing UWP/macOS cross-compatibility.</li>
         <li>Overhauled landing page UI/UX after designing wireframes using Figma to increase user intuitivity by 100%.</li>
       </ul>
-      <b>iD Tech Camps</b><br />
-      <i>Computer Science Instructor</i>
-      <ul>
-        <li>Instructed 50+ high school students (ages 13-17) in the following six courses: Java Coding for Applications, Java Coding for Game Development, Java Coding: Build Mods with Minecraft, Advanced Minecraft Modding with Java, JavaScript Coding and Game Creation, and BattleBots Camp: Robotics Engineering with VEX.</li>
-      </ul>
       <b>Maxus33, LLC</b><br />
       <i>Mobile Software Engineer Intern</i>
       <ul>
@@ -41,6 +36,11 @@
         <li>Multiplied the storage of 250,000+ embedded animations from a previous 25,000 using dotLottie file compression.</li>
         <li>Deployed Google Cloud Platform (GCP) REST APIs and XML language dictionaries to translate recorded speech.</li>
         <li>Collaborated with developers in Scrum/Agile daily stand-ups using Azure DevOps CI/CD and Git version control.</li>
+      </ul>
+      <b>iD Tech Camps</b><br />
+      <i>Computer Science Instructor</i>
+      <ul>
+        <li>Instructed 50+ high school students (ages 13-17) in the following six courses: Java Coding for Applications, Java Coding for Game Development, Java Coding: Build Mods with Minecraft, Advanced Minecraft Modding with Java, JavaScript Coding and Game Creation, and BattleBots Camp: Robotics Engineering with VEX.</li>
       </ul>
     </div>
   </div>
