@@ -21,7 +21,7 @@
   <div>
     <h2>Experience</h2>
     <div>
-      <b>Maxus33, LLC</b><br />
+      <b>Maxus33</b><br />
       <i>Mobile Software Engineer Intern</i>
       <ul>
         <li>Developed four .NET MVVM full-stack/cross-platform Android/iOS native mobile applications using C#/XAML.</li>
@@ -29,7 +29,7 @@
         <li>Ported 1.2k LOC software from Windows Forms to Xamarin Forms, allowing UWP/macOS cross-compatibility.</li>
         <li>Overhauled landing page UI/UX after designing wireframes using Figma to increase user intuitivity by 100%.</li>
       </ul>
-      <b>Maxus33, LLC</b><br />
+      <b>Maxus33</b><br />
       <i>Mobile Software Engineer Intern</i>
       <ul>
         <li>Improved installation key algorithm coverage by 85% before developing relevant unit testing suite with xUnit.net.</li>
