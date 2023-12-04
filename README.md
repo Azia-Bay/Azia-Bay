@@ -22,7 +22,7 @@
     <h2>Experience</h2>
     <div>
       <b>Maxus33</b><br />
-      <i>Mobile Software Engineer Intern</i>
+      <i>Junior Mobile Software Engineer</i>
       <ul>
         <li>Developed four .NET MVVM full-stack/cross-platform Android/iOS native mobile applications using C#/XAML.</li>
         <li>Migrated 6.4k LOC software from Xamarin Forms to .NET MAUI, increasing software sustainability/longevity.</li>
