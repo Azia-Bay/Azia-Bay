@@ -1,9 +1,6 @@
 <div>
   <div>
-    <h1>Azia Bay-Asen</h1>
-    <div>
-      Hello, and thank you for checking out my profile!
-    </div>
+    <img alt="banner" src="https://github.com/user-attachments/assets/93e75fea-c691-420a-b678-c7dcf4b6acc7" />
   </div>
   <div>
     <h2>Active Projects</h2>
