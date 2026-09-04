@@ -1,6 +1,9 @@
 <div align="center">
   <div>
-    <h1>Welcome!</h1>
+    <h1>Azia Bay-Asen</h1>
+    <div>
+      Hello, and thank you for checking out my profile!
+    </div>
   </div>
   <div>
     <h2>Active Projects</h2>
