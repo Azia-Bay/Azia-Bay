@@ -14,7 +14,7 @@
       </tr>
       <tr>
         <td valign="top" width="70%">
-          <img src="https://github.com/user-attachments/assets/05508ba3-98dd-4555-91c3-839f717fee1c" />
+          <img alt="gameplay-gif" src="https://github.com/user-attachments/assets/05508ba3-98dd-4555-91c3-839f717fee1c" />
         </td>
         <td valign="top" width="30%">
           <h3>Bruit</h3>
