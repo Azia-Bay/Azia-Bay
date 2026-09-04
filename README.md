@@ -34,7 +34,7 @@
             <li>Tools: <code>Tiled</code></li>
           </ul>
           <br />
-          Source: <code>private</code>
+          <b>Source:</b> <code>private</code>
           <br />
           <br />
           <i>More links coming soon (still in early development).</i>
