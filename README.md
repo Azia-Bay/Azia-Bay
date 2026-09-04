@@ -4,13 +4,11 @@
   </div>
   <div>
     <div>
-      <a href="mailto:aziabayasen@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" width="32" height="32" alt="Gmail" /></a>
+      <a href="mailto:aziabayasen@gmail.com"><img src="https://cdn.simpleicons.org/gmail/000000#gh-light-mode-only" width="32" alt="Gmail"/><img src="https://cdn.simpleicons.org/gmail/ffffff#gh-dark-mode-only" width="32" alt="Gmail" /></a>
       &nbsp;
-      <a href="https://linkedin.com/in/aziabay"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+      <a href="https://github.com/Azia-Bay"><img src="https://cdn.simpleicons.org/github/000000#gh-light-mode-only" width="32" alt="GitHub"/><img src="https://cdn.simpleicons.org/github/ffffff#gh-dark-mode-only" width="32" alt="GitHub" /></a>
       &nbsp;
-      <a href="https://github.com/Azia-Bay"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="32" height="32" alt="GitHub" /></a>
-      &nbsp;
-      <a href="https://aziabay.itch.io/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/itchdotio.svg" width="32" height="32" alt="itch.io" /></a>
+      <a href="https://aziabay.itch.io/"><img src="https://cdn.simpleicons.org/itchdotio/000000#gh-light-mode-only" width="32" alt="itch.io"/><img src="https://cdn.simpleicons.org/itchdotio/ffffff#gh-dark-mode-only" width="32" alt="itch.io" /></a>
     </div>
   </div>
   <div>
