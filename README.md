@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <div>
     <h1>Azia Bay-Asen</h1>
     <div>
@@ -42,7 +42,7 @@
       </tr>
     </table>
   </div>
-  <div align="left">
+  <div>
     <details>
       <summary>secret.exe</summary>
       I hope you have a wonderful day!
