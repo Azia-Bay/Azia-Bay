@@ -22,7 +22,7 @@
           <br />
           <br />
           <i>Bruit</i> is a turn-based tactics body horror RPG.
-          Set in a run-down and secluded high school, you fight twisted monsters that range from lumbering, man-sized, severed hands to aggressive swarms of disembodied eyes.
+          In a run-down and secluded high school, you fight twisted monsters that range from lumbering, man-sized, severed hands to aggressive swarms of disembodied eyes.
           <br />
           <br />
           This is a solo-development project that I am aiming to make my first Steam release.
