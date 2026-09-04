@@ -6,6 +6,10 @@
     <h2>Active Projects</h2>
     <table>
       <tr>
+        <td align="center">Media</td>
+        <td align="center">Description</td>
+      </tr>
+      <tr>
         <td valign="top" width="70%">
           <img src="https://github.com/user-attachments/assets/05508ba3-98dd-4555-91c3-839f717fee1c" />
         </td>
