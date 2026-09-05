@@ -30,7 +30,7 @@
           <ul>
             <li>Language: <code>Lua</code></li>
             <li>Engine: <code>Usagi Engine</code></li>
-            <li>Tools: <code>Tiled</code></li>
+            <li>Tools: <code>Visual Studio Code, Aseprite, Tiled</code></li>
           </ul>
           <br />
           <b>Source:</b> <code>private</code>
