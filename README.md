@@ -73,4 +73,7 @@
       </details>
     </details>
   </div>
+  <footer>
+    <img alt="banner" src="https://github.com/user-attachments/assets/c7b5a52e-f44f-4ac3-805c-7277154bdedd" />
+  </footer>
 </div>
