@@ -5,18 +5,23 @@
   </div>
   <div>
     <h2>Active Projects</h2>
+    <h3>Bruit</h3>
     <table>
       <tr>
         <td align="center">Media</td>
-        <td align="center">Description</td>
       </tr>
       <tr>
         <td valign="top" width="70%">
           <img alt="gameplay-gif"
                src="https://github.com/user-attachments/assets/05508ba3-98dd-4555-91c3-839f717fee1c" />
         </td>
+      </tr>
+      <tr>
+        <td align="center">Description</td>
+      </tr>
+      <tr>
         <td valign="top" width="30%">
-          <h3>Bruit</h3>
+          <h4>Bruit</h4>
           <code>2026/07 — Present</code>
           <br />
           <br />
@@ -26,7 +31,7 @@
           <br />
           This is a solo-development project that I am aiming to make my first Steam release.
           <br />
-          <h4>Tech Stack:</h4>
+          <h5>Tech Stack:</h5>
           <ul>
             <li>Language: <code>Lua</code></li>
             <li>Engine: <code>Usagi Engine</code></li>
