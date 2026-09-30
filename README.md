@@ -4,6 +4,10 @@
          src="https://github.com/user-attachments/assets/93e75fea-c691-420a-b678-c7dcf4b6acc7" />
   </div>
   <div>
+    <h2>Disclaimer</h2>
+    Migrated to <a href="https://codeberg.org/AziaBay" target="_blank">codeberg.org/AziaBay</a>.
+  </div>
+  <div>
     <h2>Active Projects</h2>
     <h3>Bruit</h3>
     <table>
